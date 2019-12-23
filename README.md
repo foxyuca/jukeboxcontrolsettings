@@ -45,7 +45,7 @@ Below the commands will stop containers.
 You can bring everything down and remove all containers entirely with command:
 `docker-compose down`
 
-##Executing the services
+## Executing the services
 
 To test the service the actuator health check could be use using the following URL:
 
