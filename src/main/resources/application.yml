@@ -1,0 +1,6 @@
+spring:
+  profiles:
+    active: dev
+
+externalJukeboxServer:
+  url: "http://my-json-server.typicode.com"

@@ -112,6 +112,7 @@ fabric.properties
 *.tar.gz
 *.rar
 
+
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 
@@ -119,7 +120,7 @@ hs_err_pid*
 .gradle
 build/
 
-# Ignore Gradle GUI config
+# Ignore Gradle GUI com.jukebox.test.config
 gradle-app.setting
 
 # Avoid ignoring Gradle wrapper jar file (.jar files are usually ignored)
