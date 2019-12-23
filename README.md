@@ -62,9 +62,9 @@ Note: The url are with "LOCALHOST" please use the name of the server or IP accor
 
 Currently the project is under development and has the basic configuration for a "ready to use"
 As a pending activities are to configure:
--Spring Security with OAuth token authentication. 
--Configure of the jenkins build
--Configuration for checkstyle
--Configuration for integration with Sonar 
--Configuration for the service Discovery 
--Configuration for the Resource Discovery and HATEOAS
+- Spring Security with OAuth token authentication. 
+- Configure of the jenkins build
+- Configuration for checkstyle
+- Configuration for integration with Sonar 
+- Configuration for the service Discovery 
+- Configuration for the Resource Discovery and HATEOAS
