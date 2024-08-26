@@ -19,7 +19,7 @@
         <spring-cloud.version>2.2.0.RELEASE</spring-cloud.version>
         <feign.version>1.4.7.RELEASE</feign.version>
         <swagger.version>1.5.21</swagger.version>
-        <springfox.version>2.7.0</springfox.version>
+        <springfox.version>2.10.0</springfox.version>
         <classmate.version>1.4.0</classmate.version>
     </properties>
     <dependencyManagement>
